@@ -1,0 +1,25 @@
+{
+  "name": "desafioentregable4",
+  "version": "1.0.0",
+  "description": "Desafio entregable ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxi Lucero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "handlebars": "^4.7.7",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxi87luc/desafioEntregable4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxi87luc/desafioEntregable4/issues"
+  },
+  "homepage": "https://github.com/maxi87luc/desafioEntregable4#readme"
+}
